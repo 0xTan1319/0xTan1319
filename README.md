@@ -93,14 +93,6 @@
   <img src="https://github.com/0xTan1319/0xTan1319/blob/main/divider2.png" alt="divider"/>
 </div>
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Readme Quotes"/>
-</div>
-
-<div align="center">
-  <img src="https://github.com/0xTan1319/0xTan1319/blob/main/divider2.png" alt="divider"/>
-</div>
-
 <p align="center">
   <img height = "150px" style="margin-right: 10px;" src = "https://github-readme-streak-stats.herokuapp.com?user=0xTan1319&theme=tokyonight&hide_border=true&include_all_commits=true&line_height=27">
 </p>
