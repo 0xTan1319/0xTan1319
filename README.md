@@ -5,7 +5,7 @@
   I am a Full Stack & Blockchain Developer & Smart Contract Auditor.
 </h2>
 <div align="center">
-  <img src="https://github.com/mymiracle0118/mymiracle0118/blob/main/divider1.png" alt="divider"/>
+  <img src="https://github.com/0xTan1319/0xTan1319/blob/main/divider1.png" alt="divider"/>
 </div> 
 <h3 align="center"><img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/code.gif" height="20"/> Tech & Tools</h3>
 
@@ -90,7 +90,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/mymiracle0118/mymiracle0118/blob/main/divider2.png" alt="divider"/>
+  <img src="https://github.com/0xTan1319/0xTan1319/blob/main/divider2.png" alt="divider"/>
 </div>
 
 <div align="center">
@@ -98,26 +98,13 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/mymiracle0118/mymiracle0118/blob/main/divider2.png" alt="divider"/>
+  <img src="https://github.com/0xTan1319/0xTan1319/blob/main/divider2.png" alt="divider"/>
 </div>
 
 <p align="center">
   <img height = "150px" style="margin-right: 10px;" src = "https://github-readme-streak-stats.herokuapp.com?user=0xTan1319&theme=tokyonight&hide_border=true&include_all_commits=true&line_height=27">
 </p>
 
-<!-- <p align="center">
-  <img height = "150px" style="margin-left: 10px;" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mymiracle0118&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
-</p> -->
-
-<!-- <div style="display: flex; justify-content: center;">
-  <span>
-    <img height = "150px" style="margin-right: 10px;" src = "https://github-readme-streak-stats.herokuapp.com?user=mymiracle0118&theme=tokyonight&hide_border=true&include_all_commits=true&line_height=27">
-  </span>
-
-  <span>
-    <img height = "150px" style="margin-left: 10px;" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mymiracle0118&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
-  </span>
-</div> -->
 
 <p align="center">
   <a href="mailto:leventetan@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="50" /></a>
@@ -126,12 +113,13 @@
   &nbsp;&nbsp;
   <a href="https://t.me/shiny0103" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="50" /></a>
   &nbsp;&nbsp;
+  <a href="https://t.me/0xTan1319" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="50" /></a>
   <a href="https://discordapp.com/users/317813625748193280" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/3d-fluency/94/discord-logo.png"  width="50" /></a>
   &nbsp;&nbsp;
 </p>
 
 <div align="center">
-  <img src="https://github.com/mymiracle0118/mymiracle0118/blob/main/divider1.png" alt="divider"/>
+  <img src="https://github.com/0xTan1319/0xTan1319/blob/main/divider1.png" alt="divider"/>
 </div>
 
 <h2 align="center"> Thanks for visiting my profile. </h2>
