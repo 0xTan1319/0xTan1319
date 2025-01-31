@@ -1,4 +1,4 @@
-<h1 align="center">
+![image](https://github.com/user-attachments/assets/873398f2-fb9d-47e0-b722-92d80580b01c)<h1 align="center">
   Welcome to visit my github
 </h1>
 <h2 align="center">
@@ -107,6 +107,7 @@
   &nbsp;&nbsp;
   <a href="https://discord.com/channels/@me/1310342818538983495" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/3d-fluency/94/discord-logo.png"  width="50" /></a>
   &nbsp;&nbsp;
+  <a href="https://x.com/0xTan1319" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/twitter.png" width="50"></a>
 </p>
 
 <div align="center">
