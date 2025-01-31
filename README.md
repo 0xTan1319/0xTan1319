@@ -1,6 +1,6 @@
-![image](https://github.com/user-attachments/assets/873398f2-fb9d-47e0-b722-92d80580b01c)<h1 align="center">
-  Welcome to visit my github
-</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+0xTan1319!;Welcome+to+My+GitHub+Profile!" />
+</div>
 <h2 align="center">
   I am a Full Stack & Blockchain Developer & Smart Contract Auditor.
 </h2>
